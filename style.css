@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+    font-size: 21;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: peru;
+}
+
+.h5class {
+    color: palegoldenrod;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+#h2IdValue {
+    color: rgb(26, 59, 225);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    background-color: yellow;
+}
+
+.h2Class {
+    color: rgb(225, 92, 26);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 48px;
+    background-color: blue;
+}
+
+
+.dClass {
+    color: blueviolet;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 21px;
+    background-color: white;
+}
+
+.headerDivClass {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
